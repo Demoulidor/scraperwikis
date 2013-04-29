@@ -23,4 +23,8 @@ Os Thackeos rasparam os dados atraves de: https://scraperwiki.com/scrapers/raspa
 Os sistemas ONE estão disponíveis em:
 
 Emendas CLDF 2012: https://www.eufiscalizo.com.br
+
 Emendas CLDF 2013: https://emendas.crowdmap.com
+
+
+[![endorse](https://api.coderwall.com/demoulidor/endorsecount.png)](https://coderwall.com/demoulidor)
